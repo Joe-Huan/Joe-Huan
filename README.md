@@ -1,6 +1,6 @@
 # Hello, I'm Joe👋
 
-I love discovering secrets and solving puzzles with data. 
+### I love discovering secrets and solving puzzles with data. 
 
 ## Data Analytics Skill Sets
 - MySQL, PostgreSQL, SQL Server
