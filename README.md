@@ -21,7 +21,8 @@ Still learning new skills as you're reading this (ง︡'-'︠)ง
 - My [LinkedIn](https://www.linkedin.com/in/joehuan/)
 
 ## The Not So Important Stuff About me
-![image](https://user-images.githubusercontent.com/98656729/170632932-57503cbf-6951-420f-8509-e96f5ecac906.png)
+![tumblr_47c1885aacecb3a631029011c839f3cd_4012bea4_500](https://user-images.githubusercontent.com/98656729/170633006-b89bac5e-99bc-4d65-85b8-352003563506.gif)
+
 
 
 
