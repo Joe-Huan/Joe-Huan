@@ -2,13 +2,13 @@
 
 I love discovering secrets and solving puzzles with data. 
 
-##Data Analytics Skill Sets
+## Data Analytics Skill Sets
 - MySQL, PostgreSQL, SQL Server
 - Tableau and PowerBI
 - Python Programming
 - R Programming
 
-##Web Developer Skill Sets
+## Web Developer Skill Sets
 - JavaScript
 - CSS
 - HTML5
