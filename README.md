@@ -30,7 +30,7 @@ I'm learning new/improving my skills as you're reading this (ง︡'-'︠)ง
 
 I have a huge...like HUGE bucket list to accomplish. I find it fun to interact with people and dive into a hobby I never experience. It's a great way to step out of my comfort zone and also meet fantastic people! I recently got into building my own custom mechanical keyboard because my friend picked up the hobby not too long ago. It was surprisingly a really fun experience to build my own keyboard!
 
-Besides that, I spend most of my free time playing video games (mostly RPG games), watching documentaries, and learning about foods around the world. Psssss, I'm also working on my own blogpage! Check back some other time in the future to see if there's a new link on this README.md file ༼ つ ◕_◕ ༽つ
+Besides that, I spend most of my free time playing video games (mostly RPG games), watching documentaries, and learning how to cook different cuisines from around the world. Psssss, I'm also working on my own blogpage! Check back some other time in the future to see if there's a new link on this README.md file ༼ つ ◕_◕ ༽つ
 
 ## Quotes that energizes me everyday
 - Everyday I'll learn something new 
