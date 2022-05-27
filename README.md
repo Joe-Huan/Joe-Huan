@@ -16,7 +16,7 @@ I love discovering secrets and solving puzzles with data.
 
 Still learning new skills as you're reading this (ง︡'-'︠)ง
 
-### Say hi to me!👋
+### Say hi or reach out to me!👋
 - My Email: joe.huan@outlook.com
 - My [LinkedIn](https://www.linkedin.com/in/joehuan/)
 
