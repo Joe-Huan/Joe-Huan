@@ -32,6 +32,10 @@ I have a huge...like HUGE bucket list to accomplish. I find it fun to interact w
 
 Besides that, I spend most of my free time playing video games (mostly RPG games), watching documentaries, and learning about foods around the world. Psssss, I'm also working on my own blogpage! Check back some other time in the future to see if there's a new link on this README.md file ༼ つ ◕_◕ ༽つ
 
+## Quotes that energizes me everyday
+- Everyday I'll learn something new 
+- For every minute you are angry you lose sixty seconds of happiness - Ralph Waldo Emerson
+- Yesterday is history, tomorrow is a mystery, but today is a gift! That is why it is called "The Present". - Master Oogway
 
 <!---
 Joe-huan/Joe-huan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
