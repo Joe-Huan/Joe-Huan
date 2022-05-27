@@ -16,7 +16,7 @@
 - HTML5
 - Python Programming
 
-Still learning new skills as you're reading this (ง︡'-'︠)ง
+I'm learning new/improving my skills as you're reading this (ง︡'-'︠)ง
 
 ### Say hi or reach out to me!👋
 - My Email: joe.huan@outlook.com
