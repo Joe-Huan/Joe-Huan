@@ -1,6 +1,24 @@
-# Hello👋
+# Hello, I'm Joe👋
 
-I'm Joe; junior data analyst, Monster Hunter addict, mechanical keyboard hobbyist, and a foodie.
+I love discovering secrets and solving puzzles with data. 
+
+##Data Analytics Skill Sets
+- MySQL, PostgreSQL, SQL Server
+- Tableau and PowerBI
+- Python Programming
+- R Programming
+
+##Web Developer Skill Sets
+- JavaScript
+- CSS
+- HTML5
+- Python Programming
+
+Still learning new skills as you're reading this (ง︡'-'︠)ง
+
+
+
+
 
 <!---
 Joe-huan/Joe-huan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
