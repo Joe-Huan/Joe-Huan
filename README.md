@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### I love discovering secrets and solving puzzles with data. 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joehuan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-huan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Data Analytics Skill Sets
 - MySQL, PostgreSQL, SQL Server
