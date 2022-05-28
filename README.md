@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### I love discovering secrets and solving puzzles with data. 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-huan&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-huan&show_icons=true&theme=algolia)
 
 
 ## Data Analytics Skill Sets
