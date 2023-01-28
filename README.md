@@ -7,10 +7,11 @@
 
 
 ## Data Analytics Skill Sets
-- MySQL, PostgreSQL, SQL Server
-- Tableau and PowerBI
-- Python Programming
-- R Programming
+- SQL Server, PostgreSQL, MySQL
+- Spreadsheets
+- Tableau
+- Python
+- R
 
 ## Web Developer Skill Sets
 - JavaScript
