@@ -1,10 +1,10 @@
 # Hello, I'm Joe ♎🐯
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Junior Data Analyst.
+* Data Analyst
 * Hobbies and interests
-  * Trying New Things
-       * Recently tried hiking & I love it!
+  * Hiking
   * Video Games
   * Custom Keyboards
+  * AI
 
